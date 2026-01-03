@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://sc.filehippo.net/images/t_app-icon-l/p/313f5f93-52f6-41db-9112-24d8cdac3759/4055199537/tenorshare-4ukey-logo" width="200" alt="Tenorshare 4uKey application logo"><br>
- <a href="https://app-quick-app.github.io/.github/Tenorshare4uKey">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Tenorshare4uKey">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Tenorshare 4uKey macOS">
  </a><br><br>
  <div align="center">
